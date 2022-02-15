@@ -16,6 +16,8 @@
 	  <None Remove="Views\Shared\Components\" />
 	  <None Remove="Views\Shared\Components\CategoryMenu\" />
 	  <None Remove="Views\Shared\Components\ShoppingCartSummary\" />
+	  <None Remove="Views\Contact\" />
+	  <None Remove="Models\TagHelpers\" />
 	</ItemGroup>
 	<ItemGroup>
 	  <None Include="BethanysPieShop.csproj" />
@@ -37,5 +39,7 @@
 	  <Folder Include="Views\Shared\Components\" />
 	  <Folder Include="Views\Shared\Components\CategoryMenu\" />
 	  <Folder Include="Views\Shared\Components\ShoppingCartSummary\" />
+	  <Folder Include="Views\Contact\" />
+	  <Folder Include="Models\TagHelpers\" />
 	</ItemGroup>
 </Project>
